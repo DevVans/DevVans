@@ -2,7 +2,8 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanessa-andrade-6658b3209/)
 
-![Vanessa GitHub stats](https://github-readme-stats.vercel.app/api?username=DevVans&show_icons=true&theme=highcontrast)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DevVans&theme=highcontrast&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+
 
 ## Tecnologias que uso no meu dia
 
